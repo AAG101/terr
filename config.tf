@@ -17,4 +17,4 @@ provider "aws" {
 	  tags = {
     Name = "HelloWorld22"
       }
-    }
+    } 
